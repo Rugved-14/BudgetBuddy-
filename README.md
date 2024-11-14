@@ -23,8 +23,8 @@ BudgetBuddy ├── src │ ├── main │ │ ├── java │ │ │ 
 - [Maven](https://maven.apache.org/install.html)
 - [Visual Studio Code](https://code.visualstudio.com/) with Java and Maven extensions
 
-Running the Application
-Using Maven
-To run the main application, use the following command: mvn compile exec:java
-Running Tests
-To run the unit tests, execute the following command: mvn test
+### Running the Application
+#### Using Maven
+- To run the main application, use the following command: mvn compile exec:java
+#### Running Tests
+- To run the unit tests, execute the following command: mvn test
